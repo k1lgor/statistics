@@ -1,5 +1,7 @@
 # statistic
 
+https://manutd-stats.netlify.app
+
 ![manutd](./src//images/manutd.gif)
 
 ## Project setup
