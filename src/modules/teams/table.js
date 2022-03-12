@@ -1,7 +1,7 @@
 const table = [
 	{
 		pos: 1,
-		name: "Manchester city",
+		name: "Manchester City",
 		played: 28,
 		win: 22,
 		draw: 3,
