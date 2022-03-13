@@ -139,7 +139,7 @@ const table = [
 		f: 39,
 		a: 38,
 		gd: 1,
-		pts: 3,
+		pts: 33,
 		last: "D-L-W-D-W",
 	},
 	{
