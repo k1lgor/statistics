@@ -335,5 +335,17 @@ const PL = [
 		tackles: 7,
 		aerial: 8,
 	},
+	{
+		side: "Home",
+		team: "Tottenham",
+		result: "3-2",
+		possession: "44 %",
+		shots: 10,
+		onTarget: 6,
+		passes: 459,
+		passesCompleted: 391,
+		tackles: 9,
+		aerial: 10,
+	},
 ];
 export default PL;
