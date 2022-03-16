@@ -83,5 +83,17 @@ const CL = [
 		tackles: 10,
 		aerial: 18,
 	},
+	{
+		side: "Home / Round of 16",
+		team: "Atletico Madrid",
+		result: "0-1",
+		possession: "60 %",
+		shots: 11,
+		onTarget: 5,
+		passes: 573,
+		passesCompleted: 478,
+		tackles: 4,
+		aerial: 18,
+	},
 ];
 export default CL;
