@@ -20,12 +20,9 @@
       <tr v-for="(data, id) in stats" :key="id" class="text-center">
         <td>{{ data.side }}</td>
         <td>{{ data.team }}</td>
-        <td
-          @mouseover="hover = true"
-          @mouseleave="hover = false"
-        >
+        <td @mouseover="hover = true" @mouseleave="hover = false">
           {{ data.result }}
-          <br>
+          <br />
           <span v-if="hover">9' Manuel Lanzini 0-1</span>
         </td>
         <td>{{ data.possession }}</td>
