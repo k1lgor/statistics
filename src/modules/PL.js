@@ -431,6 +431,18 @@ const PL = [
 		tackles: 8,
 		aerial: 15,
 	},
+	{
+		side: "Away",
+		team: "Brighton",
+		result: "4-0",
+		possession: "58 %",
+		shots: 15,
+		onTarget: 5,
+		passes: 495,
+		passesCompleted: 417,
+		tackles: 10,
+		aerial: 12,
+	},
 ];
 
 export default PL;
