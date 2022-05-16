@@ -20,7 +20,17 @@
       <tr v-for="(data, id) in stats" :key="id" class="text-center">
         <td>{{ data.side }}</td>
         <td>{{ data.team }}</td>
-        <td>{{ data.result }}</td>
+        <td @mouseenter="hover = true" @mouseleave="hover = false">
+          {{ data.result }}
+          <br />
+          <span v-if="hover && data.team === 'Aston Villa'"
+            >8' Scott McTominay 1-0</span
+          >
+          <span v-else-if="hover && data.team === 'Middlesbrough'">
+            25'Jadon Sancho 1-0 <br />
+            64' Matt Crooks 1-1
+          </span>
+        </td>
         <td>{{ data.possession }}</td>
         <td>{{ data.shots }}</td>
         <td>{{ data.onTarget }}</td>
@@ -39,6 +49,7 @@ export default {
   data() {
     return {
       stats: FA,
+      hover: false,
     };
   },
 };
