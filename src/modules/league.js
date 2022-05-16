@@ -1,7 +1,7 @@
 const league = [
 	{
 		side: "Home / Round 3",
-		team: "West Ham",
+		team: "West Ham United",
 		result: "0-1",
 		possession: "61 %",
 		shots: 27,
