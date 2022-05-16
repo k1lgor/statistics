@@ -1,7 +1,7 @@
 const FA = [
 	{
 		side: "Home / Round 3",
-		team: "Aston villa",
+		team: "Aston Villa",
 		result: "1-0",
 		possession: "54 %",
 		shots: 19,
