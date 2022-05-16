@@ -25,7 +25,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Wolves",
+		team: "Wolverhampton",
 		result: "0-1",
 		possession: "56 %",
 		shots: 10,
@@ -37,7 +37,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Newcastle",
+		team: "Newcastle United",
 		result: "4-1",
 		possession: "64 %",
 		shots: 21,
@@ -49,7 +49,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "West Ham",
+		team: "West Ham United",
 		result: "1-2",
 		possession: "60 %",
 		shots: 17,
@@ -85,7 +85,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Leicester",
+		team: "Leicester City",
 		result: "4-2",
 		possession: "51 %",
 		shots: 18,
@@ -109,7 +109,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Tottenham",
+		team: "Tottenham Hotspur",
 		result: "0-3",
 		possession: "42 %",
 		shots: 10,
@@ -181,7 +181,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Norwich",
+		team: "Norwich City",
 		result: "0-1",
 		possession: "53 %",
 		shots: 13,
@@ -193,7 +193,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Newcastle",
+		team: "Newcastle United",
 		result: "1-1",
 		possession: "69 %",
 		shots: 13,
@@ -217,7 +217,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Wolves",
+		team: "Wolverhampton",
 		result: "0-1",
 		possession: "51 %",
 		shots: 9,
@@ -253,7 +253,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "West Ham",
+		team: "West Ham United",
 		result: "1-0",
 		possession: "57 %",
 		shots: 18,
@@ -289,7 +289,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Brighton",
+		team: "Brighton & Hove Albion",
 		result: "2-0",
 		possession: "50 %",
 		shots: 19,
@@ -337,7 +337,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Tottenham",
+		team: "Tottenham Hotspur",
 		result: "3-2",
 		possession: "44 %",
 		shots: 10,
@@ -349,7 +349,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Leichester",
+		team: "Leichester City",
 		result: "1-1",
 		possession: "54 %",
 		shots: 11,
@@ -373,7 +373,7 @@ const PL = [
 	},
 	{
 		side: "Home",
-		team: "Norwich",
+		team: "Norwich City",
 		result: "3-2",
 		possession: "61 %",
 		shots: 20,
@@ -433,7 +433,7 @@ const PL = [
 	},
 	{
 		side: "Away",
-		team: "Brighton",
+		team: "Brighton & Hove Albion",
 		result: "4-0",
 		possession: "58 %",
 		shots: 15,
